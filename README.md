@@ -4,10 +4,13 @@
 
 ### 📌 About me
 🤖 Dedicated to building a solid foundation in software testing and quality assurance
+
 ❤️ Passionate about promoting quality as a core value, solving challenges, and delivering reliable solutions
+
 💻 I enjoy learning new tools and methodologies while collaborating with teams to ensure high-quality products 
 
 🚀 Thanks for visiting.
+
 🎯 Enjoy it!!
 
 <div>
