@@ -1,6 +1,6 @@
 <h1 align="center">🐞 Welcome! 🐞</h1>
 
-## 👋 I'm Cecília, a 𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 
+<h1 align="center">👋 My name is Cecília, I'm a 𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 </h1>
 
 ### 📌 About me
 🤖 Dedicated to building a solid foundation in software testing and quality assurance
